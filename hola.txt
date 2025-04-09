@@ -8,6 +8,6 @@ Espero que tengan un exelente dia
 
 Mi nombre es Estrella
 
-la fecha es 9 abr 
+la fecha es 9 abr 2025
 modificamos el usuario 
 git show agregar 
