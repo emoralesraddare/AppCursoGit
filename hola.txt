@@ -12,3 +12,5 @@ la fecha es 9 abr 2025
 modificamos el usuario 
 
 git show agregar 
+
+commit de prueba 
